@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<hmtl lang="es">
+<head>
+	<link href="hoja_estilos.css" rel="stylesheet" type="text/css" />
+	<meta charset="utf-8" />
+	<title>Mi primera web</title>
+</head>
+<nav>
+
+</nav>
+<body>
+	<header>
+		<h1>targex publicidad</h1>
+	</header>
+	<section>
+		<article>
+<video id="targex" width="640" height_"320" controls>
+<source src="video.mp4" type="video/mp4; codecs="avc1,mp4" />
+<source src="video.webm" type="video/webm; codecs="vp8,vorbis" />
+ 		</article>
+		<aside>(botones sociales)</aside>
+		<article>(chat)</article>
+	</section>
+	<footer>
+	Creado por @_jimmytoledo
+	</footer>
+</body>
+</html>
