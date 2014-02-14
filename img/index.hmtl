@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8" />
+	<title>Marketcon: blog de experiencias en marketing y publicidad</title>
+</head>
+<body>
+	<header>
+		<figure id="logo">
+		<img src="Logo Market-con-01.png" />
+		</figure>
+		<h1>Blog Marketcon</h1>
+		<figure id="avatar">
+			<img src="yoweb.jpg" />
+		</figure>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">Marketing</a</li>
+			<li><a href="#">Publicidad</a</li>
+			<li><a href="#">Colaboradores</a</li>
+			<li><a href="#">Razón de ser</a</li>
+			<li><a href="#">Suscribirse</a</li>
+
+		</ul>
+
+	</nav>
+	<section>
+		<article></article>
+
+	</section>
+	<footer>
+		<p>
+			<strong>Powered by Marketcon</strong>
+		</p>
+
+	</footer>
+
+</body>
+</hmtl>
