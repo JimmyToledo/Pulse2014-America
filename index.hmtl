@@ -3,15 +3,17 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Marketcon: blog de experiencias en marketing y publicidad</title>
+	<link rel="stylesheet" href="normalize.css">
+	<link rel="stylesheet" href="estilos.css">
 </head>
 <body>
 	<header>
 		<figure id="logo">
-			<img src="logomarketcon.png" alt="logo" />
+			<img src="logo-market-con-01.png" />
 		</figure>
 		<h1>Blog Marketcon</h1>
 		<figure id="avatar">
-			<img src="yoweb.jpg" alt="yo" />
+			<img src="yoweb.jpg" />
 		</figure>
 	</header>
 	<nav>
@@ -21,36 +23,38 @@
 			<li><a href="#">Colaboradores</a></li>
 			<li><a href="#">Razón de ser</a></li>
 			<li id="suscribirse_nav">
-				<a href="#">suscribirse</a>
+				<a href="#">Suscribirse</a>
 			</li>
 		</ul>
 	</nav>
 	<section id="contenido">
 		<article class="item">
 			<figure id="image_item">
-				<img src="Estoy llorando.jpg" />
+				<img src="estoy-llorando.jpg" />
 			</figure>
 			<h2 class="titulo_item">
-				<a href="#">3. Los planes no sirven</a>
+				<a href="#">
+					3. Los planes no sirven
+				</a>
 			</h2>
 			<p class="autor_item">
-				Por Jimmy Toledo
+				Por <a href="#">Jimmy Toledo</a> 
 			</p>
 			<p class="datos_item">
 				<a href="#" class="tag_item">marketing</a>
 				<span class="fecha_item">
-					Hace 5 <strong>min</strong>
+					Hace <strong>5</strong> min
 				</span>
-				<a href="#" class="comentarios_item">4</a>
-				<a href="#" class="compartir_item"></a>
+				
 			</p>
 			<p class="votacion">
-				<a href="#" class="up"></a>
+				<a href="#" class="up">U</a>
 				50
-				<a href="#" class="dowm"></a>
+				<a href="#" class="dowm">D</a>
+				<a href="#" class="comentarios_item">4</a>
+				<a href="#" class="compartir_item">X</a>
 			</p>
 		</article>
-
 	</section>
 	<footer>
 		<p>
